@@ -1,0 +1,2 @@
+# DesktopHotel
+Гостиница
